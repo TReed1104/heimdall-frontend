@@ -1,11 +1,11 @@
 {
-    "name": "wepack-vue-template",
+    "name": "heimdall-frontend",
     "version": "1.0.0",
-    "description": "A template for Webpack Vue projects",
+    "description": "Web App Frontend for the Heimdall API",
     "main": "index.js",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/TReed1104/webpack-vue-template.git"
+        "url": "git+https://github.com/TReed1104/heimdall-frontend.git"
     },
     "author": {
         "name": "Tom Reed"
